@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mentoria_desafio_2</string>
+    <string name="frame_layout_btn">Frame Layout</string>
+    <string name="linear_layout_btn">LinearLayout</string>
+    <string name="relative_layout_btn">Relative Layout</string>
+    <string name="reminder">reminder_hint</string>
+    <string name="done">done_txt</string>
+</resources>
